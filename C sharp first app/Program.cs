@@ -10,6 +10,8 @@ namespace C_sharp_first_app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Alex");
+            Console.ReadKey();
         }
     }
 }
